@@ -1,3 +1,15 @@
 * {
     font-family: 'Piazzolla', serif;
 }
+
+.container {
+    background: #a6b747;
+    float: left; 
+    color: white;
+    width: 50%;
+    height: 500px;
+    padding: 20px;
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
