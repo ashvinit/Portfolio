@@ -16,3 +16,8 @@ body {
     margin-top: 10%;
     margin-left: 10%;
 }
+
+@media screen and (max-width: 800px) {
+    .container, .row {
+      width: 100%;
+      margin-left: 0%;
