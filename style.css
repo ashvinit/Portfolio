@@ -2,12 +2,16 @@
     font-family: 'Piazzolla', serif;
 }
 
+body {
+    background: #f1c69e;
+}
+
 .container {
     background: #a6b747;
     float: left; 
     color: white;
     width: 50%;
-    height: 500px;
+    height: auto;
     padding: 20px;
     margin-top: 10%;
     margin-left: 10%;
